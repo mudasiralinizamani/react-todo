@@ -1,1 +1,1 @@
-web: gunicorn tech_mud_2.wsgi --log-file -
+web: gunicorn todo_app.wsgi --log-file -
