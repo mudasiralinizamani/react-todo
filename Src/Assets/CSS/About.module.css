@@ -1,0 +1,15 @@
+.section {
+  height: 80vh;
+  /* width: 100%; */
+  max-width: 500px;
+  /* width: 80%; */
+}
+
+.section > p {
+  margin: 4rem;
+  font-size: 20px;
+  line-height: 29px;
+  font-family: sans-serif;
+  width: 100%;
+  
+}
