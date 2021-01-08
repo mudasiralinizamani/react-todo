@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'ez5(09wg=aukup&90&6_o9-x5a!rijv#k9rp&^!hm+02qe(=wh'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['tido-react.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
